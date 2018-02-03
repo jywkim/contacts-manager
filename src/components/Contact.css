@@ -1,7 +1,9 @@
 .contact {
-  margin: 10px;
+  margin: 10px auto;
   padding: 10px;
   border: 1px solid black;
+  width: 40%;
+  border-radius: 10px;
   background-color: silver;
 }
 
