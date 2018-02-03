@@ -4,7 +4,9 @@ import Contact from "./Contact";
 
 function ContactList(props) {
   return (
-    <div></div>
+    <div>
+      {props.contacts.map(c => <Contact key={c.id} name={c.name}/>)}
+    </div>
   );
 }
 
