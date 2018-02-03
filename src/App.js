@@ -13,7 +13,7 @@ class App extends Component {
           <h1 className="App-title">React Contacts Manager</h1>
         </header>
 
-        <Contact/>
+        <Contact name="Jonathan Kim"/>
 
       </div>
     );

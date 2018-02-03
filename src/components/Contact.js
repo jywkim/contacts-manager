@@ -4,7 +4,7 @@ import "./Contact.css";
 function Contact(props) {
   return (
     <div className="contact">
-      <span>Jonathan Kim</span>
+      <span>{props.name}</span>
     </div>
   );
 }
