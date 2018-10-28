@@ -6,6 +6,7 @@
     "cryptiles": "^4.1.2",
     "deep-extend": "^0.6.0",
     "hoek": "^5.0.3",
+    "lodash": "^4.17.11",
     "macaddress": "^0.2.9",
     "prop-types": "^15.6.1",
     "react": "^16.3.2",
